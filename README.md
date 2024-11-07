@@ -4,9 +4,10 @@
 - [Abstract](#abstract)
 - [CMOS RING OSCILLATOR](#cmos-ring-oscillator)
 - [Block Diagram](#block-diagram)
-- [Circuit Details](#circuit-details)
+- [Reference Circuit Diagram](#reference-circuit-diagram)
 - [Proposed Methodology](#proposed-methodology)
 - [EDA Tools Used](#eda-tools-used)
+- [Circuit Details](#circuit-details)
 
 # Abstract
 The design and simulation of a three-stage CMOS ring oscillator using the SkyWater PDK. The oscillator, consisting of three interconnected inverters, demonstrates stable oscillation characteristics, including tunable frequency and appropriate duty cycle. Simulation results highlight the impact of transistor sizing and load capacitance on performance. This work emphasizes the significance of ring oscillators in integrated circuit applications
@@ -25,7 +26,41 @@ T = time delay for single inverter
 n = number of inverters in the oscillator
 
 # Block Diagram
-![image](https://github.com/user-attachments/assets/e58dc07f-a11b-4040-a342-f0825008ba2e)
+![image](https://github.com/user-attachments/assets/5eac58fd-8dfa-4da6-9782-94072845393a)
+
+# Reference Circuit Diagram
+![image](https://github.com/user-attachments/assets/ab1ffb53-875f-48b0-9172-50aa33974369)
+
+# Proposed Methodology
+• Step 1 : Installation of ubuntu in hyper-v
+
+• Step 2 : Install Xschem,Ngspice and Skywater pdk
+
+• Step 3 : Schematics creation
+
+• Step 4 : Creating Netlist
+
+• Step 5: Simulation & Verification of results
+
+# EDA Tools Used
+
+Xschem
+
+It is an Schematic capture and netlisting EDA tool.For more details refer:
+
+https://xschem.sourceforge.io/stefan/index.html
+
+NgSpice
+
+It is an Open Source Software for Spice Simulations. For more details refer:
+
+http://ngspice.sourceforge.net/docs.html
+
+Skywater 130nm pdk
+
+The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit and related resources, which can be used to create manufacturable designs at SkyWater’s facility.
+
+https://github.com/google/skywater-pdk
 
 # Circuit Details
 ![Ring_osc_circuit](https://github.com/user-attachments/assets/8bd769f1-74d1-429e-8c24-02f11ceb617a)
