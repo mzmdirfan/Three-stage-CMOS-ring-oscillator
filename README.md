@@ -8,6 +8,7 @@
 - [Proposed Methodology](#proposed-methodology)
 - [EDA Tools Used](#eda-tools-used)
 - [Circuit Details](#circuit-details)
+- [Output Waveforms](#output-waveforms)
 
 # Abstract
 The design and simulation of a three-stage CMOS ring oscillator using the SkyWater PDK. The oscillator, consisting of three interconnected inverters, demonstrates stable oscillation characteristics, including tunable frequency and appropriate duty cycle. Simulation results highlight the impact of transistor sizing and load capacitance on performance. This work emphasizes the significance of ring oscillators in integrated circuit applications
@@ -64,6 +65,8 @@ https://github.com/google/skywater-pdk
 
 # Circuit Details
 ![Ring_osc_circuit](https://github.com/user-attachments/assets/8bd769f1-74d1-429e-8c24-02f11ceb617a)
+
+# Output Waveforms
 
 ![Ring_osc_Out3](https://github.com/user-attachments/assets/e79710bb-e4f7-469d-a9cc-1d48615362a8)
 
