@@ -88,6 +88,8 @@ Mohamed Irfan
 
 # References
 
+. B.Razavi. (2001). "Design of Analog CMOS Integrated Circuits." McGraw-Hill. 
+
 . Shakshat Virtual Lab-INDIAN INSTITUTE OF TECHNOLOGY GUWAHATI
 
 . https://en.wikipedia.org/wiki/Ring_oscillator
