@@ -82,13 +82,13 @@ Mohamed Irfan
 
 # Acknowledgements
 
-Kunal Ghosh (Co-Founder, VLSI System Design Pvt. Ltd.)
-NIT Jamshedpur
+. Kunal Ghosh (Co-Founder, VLSI System Design Pvt. Ltd.)
+. NIT Jamshedpur
 
 # References
 
-Shakshat Virtual Lab-INDIAN INSTITUTE OF TECHNOLOGY GUWAHATI
-https://en.wikipedia.org/wiki/Ring_oscillator
+. Shakshat Virtual Lab-INDIAN INSTITUTE OF TECHNOLOGY GUWAHATI
+. https://en.wikipedia.org/wiki/Ring_oscillator
 
 
 
